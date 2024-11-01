@@ -1,0 +1,75 @@
+# Copyright (C) 2013 Wit-Buzz, Your Website Buzz Generator!
+# This file is distributed under the same license as the Wit-Buzz, Your Website Buzz Generator! package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wit-Buzz, Your Website Buzz Generator! 1.0c\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wit-buzz\n"
+"POT-Creation-Date: 2013-10-27 19:11:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wit-buzz.php:117
+msgid "Click"
+msgstr ""
+
+#: wit-buzz.php:117
+msgid "here"
+msgstr ""
+
+#: wit-buzz.php:117
+msgid " and register in no time to Wit-Buzz. Then, you will be able to start using it !"
+msgstr ""
+
+#: wit-buzz.php:137
+msgid "Wit-Buzz widget"
+msgstr ""
+
+#: wit-buzz.php:118
+msgid "Enter your web site (ex: www.wit-buzz.com)"
+msgstr ""
+
+#: wit-buzz.php:119
+msgid "Text to display for your users"
+msgstr ""
+
+#: wit-buzz.php:121
+msgid "Which language the Wit-Buzz widget will display on users?"
+msgstr ""
+
+#: wit-buzz.php:122
+msgid "Automatic"
+msgstr ""
+
+#: wit-buzz.php:126
+msgid "Enter the size for the Wit-Buzz icon"
+msgstr ""
+
+#: wit-buzz.php:127
+msgid "Enter the URL of the image to use (if nothing the defaul pic plugin is used)"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Wit-Buzz, Your Website Buzz Generator! 1.0c)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wit-buzz.php:139
+msgid "Wit-Buzz, Your Website Buzz Generator!"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wit-buzz.com/plugin/wordpress"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Let the users spread the good word. Collect user Opinion, generate the Buzz and grow your Traffic."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wit-Me"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wit-me.com/"
+msgstr ""

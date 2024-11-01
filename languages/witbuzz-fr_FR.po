@@ -1,0 +1,87 @@
+# Copyright (C) 2013 Wit-Buzz, Your Website Buzz Generator!
+# This file is distributed under the same license as the Wit-Buzz, Your Website Buzz Generator! package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wit-Buzz, Your Website Buzz Generator! 1.0c\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wit-buzz\n"
+"POT-Creation-Date: 2013-10-27 19:11:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-10-28 14:13+0100\n"
+"Last-Translator: thierry gluzman <thierry.gluzman@wit-me.com>\n"
+"Language-Team: French <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: wit-buzz.php:117
+msgid "Click"
+msgstr "Cliquez"
+
+#: wit-buzz.php:117
+msgid "ici"
+msgstr "ici"
+
+#: wit-buzz.php:117
+msgid ""
+" and register in no time to Wit-Buzz. Then, you will be able to start using "
+"it !"
+msgstr ""
+" et enregistrez-vous sans attendre. Commencez à l'utiliser wit-Buzz sans "
+"attendre. "
+
+#: wit-buzz.php:118
+msgid "Enter your web site (ex: www.wit-buzz.com)"
+msgstr "Entrez votre site Web (ex: www.wit-buzz.com)"
+
+#: wit-buzz.php:119
+msgid "Text to display for your users"
+msgstr "Texte à afficher aux utilisateurs"
+
+#: wit-buzz.php:121
+msgid "Which language the Wit-Buzz widget will display on users?"
+msgstr "Quelle langue le widget doit-il afficher aux utilisateurs ?"
+
+#: wit-buzz.php:122
+msgid "Automatic"
+msgstr "Automatique"
+
+#: wit-buzz.php:126
+msgid "Enter the size for the Wit-Buzz icon"
+msgstr "Entez la taille pour l'icône Wit-Buzz"
+
+#: wit-buzz.php:127
+msgid ""
+"Enter the URL of the image to use (if nothing the defaul pic plugin is used)"
+msgstr ""
+"Entrez l'URL de l'image à utiliser (si aucune image n'est donnée l'icône par "
+"défaut sera utilisée)"
+
+#: wit-buzz.php:137
+msgid "Widget Wit-Buzz"
+msgstr "Widget Wit-Buzz"
+
+#. #-#-#-#-#  plugin.pot (Wit-Buzz, Your Website Buzz Generator! 1.0c)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wit-buzz.php:139
+msgid "Wit-Buzz, Votre générateur de Buzz !"
+msgstr "Wit-Buzz, Votre générateur de Buzz !"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wit-buzz.com/plugin/wordpress"
+msgstr "http://www.wit-buzz.com/plugin/wordpress"
+
+#. Description of the plugin/theme
+msgid ""
+"Let the users spread the good word. Collect user Opinion, generate the Buzz "
+"and grow your Traffic."
+msgstr ""
+"Laissez les utilisateurs porter la bonne parole. Collectez les opinions, "
+"générez du buzz et augmentez votre trafic."
+
+#. Author of the plugin/theme
+msgid "Wit-Me"
+msgstr "Wit-Me"
+
+#. Author URI of the plugin/theme
+msgid "http://www.wit-me.com/"
+msgstr "http://www.wit-me.com/"
